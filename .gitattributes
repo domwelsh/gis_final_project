@@ -1,4 +1,4 @@
-./InesDom_5/DataOut/Probl5_127909.gpkg filter=lfs diff=lfs merge=lfs -text
-./InesDom_5/DataIn/California_Wildland_Fire_Perimeters_(All)/California_Wildland_Fire_Perimeters_(All).shp filter=lfs diff=lfs merge=lfs -text
 InesDom_5/DataIn/California_Wildland_Fire_Perimeters_(All)/California_Wildland_Fire_Perimeters_(All).shp filter=lfs diff=lfs merge=lfs -text
 InesDom_5/DataOut/Probl5_127909.gpkg filter=lfs diff=lfs merge=lfs -text
+./InesDom_5/DataOut/Probl5_127909.gpkg filter=lfs diff=lfs merge=lfs -text
+./InesDom_5/DataIn/California_Wildland_Fire_Perimeters_(All)/California_Wildland_Fire_Perimeters_(All).shp filter=lfs diff=lfs merge=lfs -text
